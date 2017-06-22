@@ -1,0 +1,6 @@
+This is an Automated Attendance Tracking System Application.
+
+// It's primarily developed using C# and has an SQL backend database connected to it.
+// We also used RFID and NFC card reader to implement the project.
+
+// The architecture of the project: SQL Database -> C# Application -> NFC Reader -> RFID card
